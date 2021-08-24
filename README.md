@@ -17,7 +17,7 @@ $ git clone https://github.com/Zaeni123/BGK
 
 $ cd BGK
 
-$ python3 game.py kalkulator.py
+$ python3 game.py
 
 Selamat bermain..)
 
@@ -32,6 +32,6 @@ $ git clone https://github.com/Zaeni123/BGK
 
 $ cd BGK
 
-$ python game.py
+$ python3 game.py
 
 Selamat bermain..)
