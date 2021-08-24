@@ -1,3 +1,8 @@
 # BGK
 Permainan Batu, Gunting, Kertas
-htbh
+
+Bermain lah di terminal mu : 
+- Termux
+- WSL
+- dan Terminal Linux lainnya
+
